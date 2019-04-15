@@ -1,0 +1,30 @@
+body {
+	font-family: 'Roboto', sans-serif !important;
+    font-size: 15px !important;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+	position: relative;
+    min-height: 1px;
+	margin-left: 25%;
+	width: 50%;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.noText{
+   background: url('/M-PokerChanceCalculator/assets/img/card.png') 0 0 no-repeat;
+   width: 135px;
+   height: 191px;
+   font-size: 0px;
+}
+
+.cardColor, .cards {
+	width: 10%;
+}
